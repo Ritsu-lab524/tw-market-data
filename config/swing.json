@@ -1,0 +1,69 @@
+{
+ "_note": "價差層設定（V26，2026/10/26）。規則見 Project 文件 claude/系統規則一頁版.md。cap = 單一標的上限（底倉＋價差份，佔總資產）；priority 越小越優先；account 為價差下單帳戶。",
+ "trigger_atr": 2.0,
+ "add2_atr": 1.0,
+ "recover_atr": 2.0,
+ "hold_days": 40,
+ "min_gain": 0.02,
+ "panic_drop": 0.025,
+ "panic_tickers": [
+  "00631L",
+  "00981A"
+ ],
+ "unit_pct": 0.015,
+ "tickers": {
+  "3711": {
+   "name": "日月光",
+   "cap": 0.1,
+   "priority": 2,
+   "account": "元大"
+  },
+  "2301": {
+   "name": "光寶科",
+   "cap": 0.09,
+   "priority": 2,
+   "account": "元大"
+  },
+  "6442": {
+   "name": "光聖",
+   "cap": 0.06,
+   "priority": 3
+  },
+  "00631L": {
+   "name": "台灣50正2",
+   "cap": 0.1,
+   "priority": 3
+  },
+  "2454": {
+   "name": "聯發科",
+   "cap": 0.085,
+   "priority": 4
+  },
+  "00981A": {
+   "name": "00981A",
+   "cap": 0.12,
+   "priority": 5
+  },
+  "2308": {
+   "name": "台達電",
+   "cap": 0.08,
+   "priority": 6,
+   "account": "元大"
+  },
+  "009828": {
+   "name": "009828",
+   "cap": 0.08,
+   "priority": 7
+  },
+  "6239": {
+   "name": "力成",
+   "cap": 0.074,
+   "priority": 8
+  },
+  "2327": {
+   "name": "國巨",
+   "cap": 0.04,
+   "priority": 9
+  }
+ }
+}

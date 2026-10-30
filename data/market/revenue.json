@@ -1,0 +1,64 @@
+{
+ "generated_at": "2026-10-31T02:35+08:00",
+ "month": "2026-09",
+ "source": "https://mopsov.twse.com.tw/nas/t21/sii/t21sc03_115_9_0.html",
+ "status": "已公布 7/7",
+ "items": {
+  "2454": {
+   "name": "聯發科",
+   "revenue": 55399497.0,
+   "prev_month": 64183361.0,
+   "last_year": 54330057.0,
+   "mom_pct": -13.68,
+   "yoy_pct": 1.96
+  },
+  "3711": {
+   "name": "日月光",
+   "revenue": 88130084.0,
+   "prev_month": 82247374.0,
+   "last_year": 60561227.0,
+   "mom_pct": 7.15,
+   "yoy_pct": 45.52
+  },
+  "6239": {
+   "name": "力成",
+   "revenue": 8506551.0,
+   "prev_month": 8557545.0,
+   "last_year": 6699982.0,
+   "mom_pct": -0.59,
+   "yoy_pct": 26.96
+  },
+  "2301": {
+   "name": "光寶科",
+   "revenue": 18848445.0,
+   "prev_month": 19592400.0,
+   "last_year": 15430791.0,
+   "mom_pct": -3.79,
+   "yoy_pct": 22.14
+  },
+  "6442": {
+   "name": "光聖",
+   "revenue": 2061154.0,
+   "prev_month": 1628177.0,
+   "last_year": 1044893.0,
+   "mom_pct": 26.59,
+   "yoy_pct": 97.25
+  },
+  "2308": {
+   "name": "台達電",
+   "revenue": 65399563.0,
+   "prev_month": 64586049.0,
+   "last_year": 57060781.0,
+   "mom_pct": 1.25,
+   "yoy_pct": 14.61
+  },
+  "2327": {
+   "name": "國巨",
+   "revenue": 17068153.0,
+   "prev_month": 16332196.0,
+   "last_year": 11680869.0,
+   "mom_pct": 4.5,
+   "yoy_pct": 46.12
+  }
+ }
+}

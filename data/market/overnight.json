@@ -1,0 +1,43 @@
+{
+ "generated_at": "2026-10-26T22:01+08:00",
+ "items": {
+  "那斯達克": {
+   "date": "2026-10-23",
+   "close": 25955.34,
+   "chg": -53.52,
+   "chg_pct": -0.0021,
+   "source": "Nasdaq"
+  },
+  "費半 SOX": {
+   "date": "2026-10-23",
+   "close": 10779.46,
+   "chg": 47.48,
+   "chg_pct": 0.0044,
+   "source": "Nasdaq"
+  },
+  "台積電 ADR": {
+   "date": "2026-10-23",
+   "close": 418.51,
+   "chg": 6.16,
+   "chg_pct": 0.0149,
+   "source": "Nasdaq"
+  },
+  "美債 10 年(%)": {
+   "date": "2026-10-23",
+   "close": 5.0,
+   "chg": 0.04,
+   "chg_pct": null,
+   "source": "美國財政部"
+  },
+  "台指期夜盤": {
+   "date": "2026-10-22",
+   "contract": "202611",
+   "close": 47482.0,
+   "chg": 469.0,
+   "chg_pct": 1.0,
+   "volume": 35753.0,
+   "source": "期交所"
+  }
+ },
+ "status": {}
+}
