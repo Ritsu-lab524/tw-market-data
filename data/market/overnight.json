@@ -1,0 +1,75 @@
+{
+ "generated_at": "2026-11-13T10:32+08:00",
+ "items": {
+  "那斯達克": {
+   "date": "2026-11-11",
+   "close": 25466.19,
+   "chg": 400.32,
+   "chg_pct": 0.016,
+   "source": "Nasdaq"
+  },
+  "費半 SOX": {
+   "date": "2026-11-11",
+   "close": 10564.11,
+   "chg": 565.78,
+   "chg_pct": 0.0566,
+   "source": "Nasdaq"
+  },
+  "台積電 ADR": {
+   "date": "2026-11-12",
+   "close": 405.49,
+   "chg": -7.86,
+   "chg_pct": -0.019,
+   "source": "Nasdaq"
+  },
+  "美債 10 年(%)": {
+   "date": "2026-11-12",
+   "close": 5.1,
+   "chg": 0.12,
+   "chg_pct": null,
+   "source": "美國財政部"
+  },
+  "恐慌指數 VIX": {
+   "date": "2026-11-11",
+   "close": 17.49,
+   "chg": -1.97,
+   "chg_pct": -0.1012,
+   "source": "CBOE"
+  },
+  "WTI 原油": {
+   "date": "2026-11-11",
+   "close": 89.62,
+   "chg": 0.0,
+   "chg_pct": 0.0,
+   "source": "EIA 現貨"
+  },
+  "布蘭特原油": {
+   "date": "2026-11-11",
+   "close": 92.14,
+   "chg": 1.98,
+   "chg_pct": 0.022,
+   "source": "EIA 現貨"
+  },
+  "台指期夜盤": {
+   "date": "2026-11-13",
+   "contract": "202611",
+   "close": 43676.0,
+   "chg": 548.0,
+   "chg_pct": 1.27,
+   "volume": 79972.0,
+   "source": "期交所"
+  }
+ },
+ "macro": {
+  "非農 NFP": {
+   "month": "2026-10",
+   "level_k": 159293.0,
+   "chg_k": 165.0,
+   "prev_chg_k": 60.0,
+   "source": "BLS"
+  }
+ },
+ "status": {
+  "小非農 ADP": "FRED（ADP） 失敗：HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=40)"
+ }
+}

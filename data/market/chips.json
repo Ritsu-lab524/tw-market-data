@@ -1,0 +1,1268 @@
+{
+ "generated_at": "2026-11-14T04:28:50+08:00",
+ "t86_latest": "2026-11-13",
+ "margin_latest": "2026-11-13",
+ "coverage": {
+  "t86_days": 60,
+  "margin_days": 60,
+  "first": "2026-08-17"
+ },
+ "gaps": {
+  "t86": [],
+  "margin": []
+ },
+ "items": [
+  {
+   "code": "6442",
+   "group": "動能個股",
+   "etf": false,
+   "name": "光聖",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": 154,
+     "trust": 2,
+     "dealer": 17,
+     "total": 173
+    },
+    "d5": {
+     "foreign": -43,
+     "trust": 65,
+     "dealer": 74,
+     "total": 96
+    },
+    "d10": {
+     "foreign": 1167,
+     "trust": -164,
+     "dealer": 42,
+     "total": 1045
+    },
+    "d20": {
+     "foreign": 499,
+     "trust": -49,
+     "dealer": -104,
+     "total": 345
+    },
+    "foreign_streak": 3,
+    "trust_streak": 1,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 3601.0,
+    "margin_chg": 150.0,
+    "margin_chg_5d": 312.0,
+    "margin_chg_5d_pct": 9.49,
+    "margin_chg_20d_pct": -22.22,
+    "short_bal": 16.0,
+    "short_margin_ratio_pct": 0.44,
+    "sbl_bal": 4028.0,
+    "sbl_sell": 62.0,
+    "sbl_chg_5d_pct": -1.78,
+    "sbl_chg_20d_pct": 9.58
+   },
+   "washout": {
+    "high_date": "2026-10-07",
+    "high_close": 1815.0,
+    "close": 1160.0,
+    "price_dd_pct": -36.09,
+    "margin_base_date": "2026-10-07",
+    "margin_base": 4396.0,
+    "margin_now": 3601.0,
+    "margin_chg_pct": -18.08,
+    "washout_ratio": 0.5,
+    "washout_label": "部分去化（融資減幅為跌幅的 0.5～1 倍）"
+   },
+   "ft_5d_pct_of_volume": 0.17
+  },
+  {
+   "code": "2454",
+   "group": "動能個股",
+   "etf": false,
+   "name": "聯發科",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": 2170,
+     "trust": 305,
+     "dealer": 136,
+     "total": 2610
+    },
+    "d5": {
+     "foreign": -1140,
+     "trust": 2879,
+     "dealer": 171,
+     "total": 1909
+    },
+    "d10": {
+     "foreign": -20468,
+     "trust": 7323,
+     "dealer": 1480,
+     "total": -11664
+    },
+    "d20": {
+     "foreign": -41951,
+     "trust": 11492,
+     "dealer": 1329,
+     "total": -29130
+    },
+    "foreign_streak": 2,
+    "trust_streak": 23,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 11713.0,
+    "margin_chg": 160.0,
+    "margin_chg_5d": 76.0,
+    "margin_chg_5d_pct": 0.65,
+    "margin_chg_20d_pct": 1.76,
+    "short_bal": 61.0,
+    "short_margin_ratio_pct": 0.52,
+    "sbl_bal": 7616.0,
+    "sbl_sell": 320.0,
+    "sbl_chg_5d_pct": 22.62,
+    "sbl_chg_20d_pct": 27.51
+   },
+   "washout": {
+    "high_date": "2026-09-24",
+    "high_close": 5285.0,
+    "close": 4120.0,
+    "price_dd_pct": -22.04,
+    "margin_base_date": "2026-09-24",
+    "margin_base": 10770.0,
+    "margin_now": 11713.0,
+    "margin_chg_pct": 8.76,
+    "washout_ratio": -0.4,
+    "washout_label": "融資反增"
+   },
+   "ft_5d_pct_of_volume": 2.53
+  },
+  {
+   "code": "3481",
+   "group": "動能個股",
+   "etf": false,
+   "name": "群創",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": 10018,
+     "trust": 27,
+     "dealer": 4522,
+     "total": 14567
+    },
+    "d5": {
+     "foreign": -14610,
+     "trust": 130,
+     "dealer": -709,
+     "total": -15190
+    },
+    "d10": {
+     "foreign": 5135,
+     "trust": 49,
+     "dealer": 31,
+     "total": 5215
+    },
+    "d20": {
+     "foreign": -67222,
+     "trust": 1677,
+     "dealer": -2238,
+     "total": -67783
+    },
+    "foreign_streak": 1,
+    "trust_streak": 4,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 272566.0,
+    "margin_chg": 56.0,
+    "margin_chg_5d": 9553.0,
+    "margin_chg_5d_pct": 3.63,
+    "margin_chg_20d_pct": -17.51,
+    "short_bal": 4096.0,
+    "short_margin_ratio_pct": 1.5,
+    "sbl_bal": 785374.0,
+    "sbl_sell": 3383.0,
+    "sbl_chg_5d_pct": -1.0,
+    "sbl_chg_20d_pct": -1.61
+   },
+   "washout": {
+    "high_date": "2026-09-30",
+    "high_close": 54.7,
+    "close": 39.95,
+    "price_dd_pct": -26.97,
+    "margin_base_date": "2026-09-30",
+    "margin_base": 335614.0,
+    "margin_now": 272566.0,
+    "margin_chg_pct": -18.79,
+    "washout_ratio": 0.7,
+    "washout_label": "部分去化（融資減幅為跌幅的 0.5～1 倍）"
+   },
+   "ft_5d_pct_of_volume": -1.83
+  },
+  {
+   "code": "6239",
+   "group": "動能個股",
+   "etf": false,
+   "name": "力成",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": 282,
+     "trust": 2,
+     "dealer": 348,
+     "total": 632
+    },
+    "d5": {
+     "foreign": -262,
+     "trust": 1556,
+     "dealer": 530,
+     "total": 1825
+    },
+    "d10": {
+     "foreign": -640,
+     "trust": 2853,
+     "dealer": 434,
+     "total": 2647
+    },
+    "d20": {
+     "foreign": -7185,
+     "trust": 3629,
+     "dealer": -741,
+     "total": -4298
+    },
+    "foreign_streak": 1,
+    "trust_streak": 4,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 17692.0,
+    "margin_chg": 307.0,
+    "margin_chg_5d": -17.0,
+    "margin_chg_5d_pct": -0.1,
+    "margin_chg_20d_pct": -18.66,
+    "short_bal": 99.0,
+    "short_margin_ratio_pct": 0.56,
+    "sbl_bal": 6697.0,
+    "sbl_sell": 396.0,
+    "sbl_chg_5d_pct": 16.49,
+    "sbl_chg_20d_pct": 51.14
+   },
+   "washout": {
+    "high_date": "2026-10-06",
+    "high_close": 310.5,
+    "close": 251.5,
+    "price_dd_pct": -19.0,
+    "margin_base_date": "2026-10-06",
+    "margin_base": 23107.0,
+    "margin_now": 17692.0,
+    "margin_chg_pct": -23.43,
+    "washout_ratio": 1.23,
+    "washout_label": "去化充分（融資減幅 ≥ 跌幅）"
+   },
+   "ft_5d_pct_of_volume": 2.35
+  },
+  {
+   "code": "00981A",
+   "group": "動能ETF",
+   "etf": true,
+   "name": "主動統一台股增長",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": 28932,
+     "trust": -1077,
+     "dealer": -3378,
+     "total": 24478
+    },
+    "d5": {
+     "foreign": 230018,
+     "trust": 9623,
+     "dealer": -245023,
+     "total": -5382
+    },
+    "d10": {
+     "foreign": -85303,
+     "trust": 9623,
+     "dealer": -707740,
+     "total": -783420
+    },
+    "d20": {
+     "foreign": -528464,
+     "trust": 11950,
+     "dealer": -1291890,
+     "total": -1808404
+    },
+    "foreign_streak": 5,
+    "trust_streak": -1,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 233300.0,
+    "margin_chg": -1913.0,
+    "margin_chg_5d": -13679.0,
+    "margin_chg_5d_pct": -5.54,
+    "margin_chg_20d_pct": 20.45,
+    "short_bal": 2236.0,
+    "short_margin_ratio_pct": 0.96,
+    "sbl_bal": 278851.0,
+    "sbl_sell": 6711.0,
+    "sbl_chg_5d_pct": 8.72,
+    "sbl_chg_20d_pct": 225.18
+   },
+   "washout": {
+    "high_date": "2026-10-05",
+    "high_close": 32.65,
+    "close": 24.7,
+    "price_dd_pct": -24.35,
+    "margin_base_date": "2026-10-05",
+    "margin_base": 174654.0,
+    "margin_now": 233300.0,
+    "margin_chg_pct": 33.58,
+    "washout_ratio": -1.38,
+    "washout_label": "融資反增"
+   },
+   "ft_5d_pct_of_volume": 14.01
+  },
+  {
+   "code": "009828",
+   "group": "動能ETF",
+   "etf": true,
+   "name": "中信台日韓PCB",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 48,
+    "d1": {
+     "foreign": 1745,
+     "trust": -1200,
+     "dealer": -11461,
+     "total": -10916
+    },
+    "d5": {
+     "foreign": 27902,
+     "trust": 0,
+     "dealer": -67335,
+     "total": -39432
+    },
+    "d10": {
+     "foreign": -50143,
+     "trust": 0,
+     "dealer": -150620,
+     "total": -200763
+    },
+    "d20": {
+     "foreign": -179173,
+     "trust": 0,
+     "dealer": -338354,
+     "total": -517527
+    },
+    "foreign_streak": 4,
+    "trust_streak": -1,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 51014.0,
+    "margin_chg": 2081.0,
+    "margin_chg_5d": 7795.0,
+    "margin_chg_5d_pct": 18.04,
+    "margin_chg_20d_pct": 61.39,
+    "short_bal": 195.0,
+    "short_margin_ratio_pct": 0.38,
+    "sbl_bal": 29187.0,
+    "sbl_sell": 0.0,
+    "sbl_chg_5d_pct": 27.71,
+    "sbl_chg_20d_pct": 116.67
+   },
+   "washout": {
+    "high_date": "2026-10-06",
+    "high_close": 11.32,
+    "close": 7.88,
+    "price_dd_pct": -30.39,
+    "margin_base_date": "2026-10-06",
+    "margin_base": 21585.0,
+    "margin_now": 51014.0,
+    "margin_chg_pct": 136.34,
+    "washout_ratio": -4.49,
+    "washout_label": "融資反增"
+   },
+   "ft_5d_pct_of_volume": 9.22
+  },
+  {
+   "code": "00992A",
+   "group": "動能ETF",
+   "etf": true,
+   "name": "主動群益科技創新",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": 1714,
+     "trust": 650,
+     "dealer": -5385,
+     "total": -3021
+    },
+    "d5": {
+     "foreign": 43356,
+     "trust": 1950,
+     "dealer": -102212,
+     "total": -56906
+    },
+    "d10": {
+     "foreign": -55495,
+     "trust": 1050,
+     "dealer": -178099,
+     "total": -232543
+    },
+    "d20": {
+     "foreign": -107158,
+     "trust": 3800,
+     "dealer": -495668,
+     "total": -599026
+    },
+    "foreign_streak": 1,
+    "trust_streak": 2,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 41770.0,
+    "margin_chg": 580.0,
+    "margin_chg_5d": 10184.0,
+    "margin_chg_5d_pct": 32.24,
+    "margin_chg_20d_pct": 45.63,
+    "short_bal": 414.0,
+    "short_margin_ratio_pct": 0.99,
+    "sbl_bal": 64463.0,
+    "sbl_sell": 458.0,
+    "sbl_chg_5d_pct": -0.63,
+    "sbl_chg_20d_pct": 83.21
+   },
+   "washout": {
+    "high_date": "2026-10-06",
+    "high_close": 20.23,
+    "close": 14.68,
+    "price_dd_pct": -27.43,
+    "margin_base_date": "2026-10-06",
+    "margin_base": 18992.0,
+    "margin_now": 41770.0,
+    "margin_chg_pct": 119.93,
+    "washout_ratio": -4.37,
+    "washout_label": "融資反增"
+   },
+   "ft_5d_pct_of_volume": 10.81
+  },
+  {
+   "code": "00631L",
+   "group": "槓桿ETF",
+   "etf": true,
+   "name": "元大台灣50正2",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": -1797,
+     "trust": 3065,
+     "dealer": 30834,
+     "total": 32102
+    },
+    "d5": {
+     "foreign": -18997,
+     "trust": 16349,
+     "dealer": 197904,
+     "total": 195257
+    },
+    "d10": {
+     "foreign": -66211,
+     "trust": 16863,
+     "dealer": -1101280,
+     "total": -1150628
+    },
+    "d20": {
+     "foreign": -103242,
+     "trust": 16963,
+     "dealer": -2412151,
+     "total": -2498430
+    },
+    "foreign_streak": -1,
+    "trust_streak": 1,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 314104.0,
+    "margin_chg": 820.0,
+    "margin_chg_5d": -63024.0,
+    "margin_chg_5d_pct": -16.71,
+    "margin_chg_20d_pct": 56.01,
+    "short_bal": 30626.0,
+    "short_margin_ratio_pct": 9.75,
+    "sbl_bal": 430505.0,
+    "sbl_sell": 651.0,
+    "sbl_chg_5d_pct": -0.97,
+    "sbl_chg_20d_pct": 46.27
+   },
+   "washout": {
+    "high_date": "2026-10-06",
+    "high_close": 41.89,
+    "close": 31.92,
+    "price_dd_pct": -23.8,
+    "margin_base_date": "2026-10-06",
+    "margin_base": 180361.0,
+    "margin_now": 314104.0,
+    "margin_chg_pct": 74.15,
+    "washout_ratio": -3.12,
+    "washout_label": "融資反增"
+   },
+   "ft_5d_pct_of_volume": -0.12
+  },
+  {
+   "code": "00881",
+   "group": "長期ETF",
+   "etf": true,
+   "name": "國泰台灣科技龍頭",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": 9433,
+     "trust": 0,
+     "dealer": 9579,
+     "total": 19012
+    },
+    "d5": {
+     "foreign": 18728,
+     "trust": 0,
+     "dealer": -1431,
+     "total": 17297
+    },
+    "d10": {
+     "foreign": 174,
+     "trust": 0,
+     "dealer": -48524,
+     "total": -48350
+    },
+    "d20": {
+     "foreign": -30962,
+     "trust": 0,
+     "dealer": -128980,
+     "total": -159942
+    },
+    "foreign_streak": 5,
+    "trust_streak": 0,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 4264.0,
+    "margin_chg": -71.0,
+    "margin_chg_5d": -613.0,
+    "margin_chg_5d_pct": -12.57,
+    "margin_chg_20d_pct": -16.05,
+    "short_bal": 7.0,
+    "short_margin_ratio_pct": 0.16,
+    "sbl_bal": 49035.0,
+    "sbl_sell": 174.0,
+    "sbl_chg_5d_pct": 0.35,
+    "sbl_chg_20d_pct": 32.78
+   },
+   "washout": {
+    "high_date": "2026-08-17",
+    "high_close": 55.15,
+    "close": 44.8,
+    "price_dd_pct": -18.77,
+    "margin_base_date": "2026-08-17",
+    "margin_base": 9048.0,
+    "margin_now": 4264.0,
+    "margin_chg_pct": -52.87,
+    "washout_ratio": 2.82,
+    "washout_label": "去化充分（融資減幅 ≥ 跌幅）"
+   },
+   "ft_5d_pct_of_volume": 16.9
+  },
+  {
+   "code": "00991A",
+   "group": "長期ETF",
+   "etf": true,
+   "name": "主動復華未來50",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": 24781,
+     "trust": 0,
+     "dealer": -6334,
+     "total": 18447
+    },
+    "d5": {
+     "foreign": 81768,
+     "trust": 0,
+     "dealer": -30249,
+     "total": 51519
+    },
+    "d10": {
+     "foreign": 31303,
+     "trust": -1340,
+     "dealer": -97593,
+     "total": -67630
+    },
+    "d20": {
+     "foreign": -44549,
+     "trust": -1340,
+     "dealer": -192388,
+     "total": -238276
+    },
+    "foreign_streak": 5,
+    "trust_streak": 0,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 63923.0,
+    "margin_chg": -9711.0,
+    "margin_chg_5d": -26416.0,
+    "margin_chg_5d_pct": -29.24,
+    "margin_chg_20d_pct": -40.23,
+    "short_bal": 939.0,
+    "short_margin_ratio_pct": 1.47,
+    "sbl_bal": 137329.0,
+    "sbl_sell": 304.0,
+    "sbl_chg_5d_pct": 1.28,
+    "sbl_chg_20d_pct": 52.19
+   },
+   "washout": {
+    "high_date": "2026-10-05",
+    "high_close": 19.47,
+    "close": 14.42,
+    "price_dd_pct": -25.94,
+    "margin_base_date": "2026-10-05",
+    "margin_base": 103725.0,
+    "margin_now": 63923.0,
+    "margin_chg_pct": -38.37,
+    "washout_ratio": 1.48,
+    "washout_label": "去化充分（融資減幅 ≥ 跌幅）"
+   },
+   "ft_5d_pct_of_volume": 18.87
+  },
+  {
+   "code": "00995A",
+   "group": "長期ETF",
+   "etf": true,
+   "name": "主動中信台灣卓越",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": 947,
+     "trust": 0,
+     "dealer": -2218,
+     "total": -1271
+    },
+    "d5": {
+     "foreign": 1877,
+     "trust": 0,
+     "dealer": -2525,
+     "total": -648
+    },
+    "d10": {
+     "foreign": 1811,
+     "trust": 0,
+     "dealer": -6596,
+     "total": -4785
+    },
+    "d20": {
+     "foreign": 1202,
+     "trust": 0,
+     "dealer": -17490,
+     "total": -16288
+    },
+    "foreign_streak": 1,
+    "trust_streak": 0,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 974.0,
+    "margin_chg": -18.0,
+    "margin_chg_5d": -244.0,
+    "margin_chg_5d_pct": -20.03,
+    "margin_chg_20d_pct": -2.11,
+    "short_bal": 0.0,
+    "short_margin_ratio_pct": 0.0,
+    "sbl_bal": 2285.0,
+    "sbl_sell": 0.0,
+    "sbl_chg_5d_pct": -10.6,
+    "sbl_chg_20d_pct": -26.08
+   },
+   "washout": {
+    "high_date": "2026-10-06",
+    "high_close": 18.88,
+    "close": 14.01,
+    "price_dd_pct": -25.79,
+    "margin_base_date": "2026-10-06",
+    "margin_base": 962.0,
+    "margin_now": 974.0,
+    "margin_chg_pct": 1.25,
+    "washout_ratio": -0.05,
+    "washout_label": "融資反增"
+   },
+   "ft_5d_pct_of_volume": 5.97
+  },
+  {
+   "code": "00830",
+   "group": "長期ETF",
+   "etf": true,
+   "name": "國泰費城半導體",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": -54,
+     "trust": 0,
+     "dealer": -742,
+     "total": -796
+    },
+    "d5": {
+     "foreign": -5876,
+     "trust": -202,
+     "dealer": -7979,
+     "total": -14057
+    },
+    "d10": {
+     "foreign": -23209,
+     "trust": -427,
+     "dealer": -40735,
+     "total": -64372
+    },
+    "d20": {
+     "foreign": -54839,
+     "trust": -558,
+     "dealer": -79988,
+     "total": -135384
+    },
+    "foreign_streak": -1,
+    "trust_streak": 0,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 10940.0,
+    "margin_chg": -108.0,
+    "margin_chg_5d": 288.0,
+    "margin_chg_5d_pct": 2.7,
+    "margin_chg_20d_pct": 47.78,
+    "short_bal": 65.0,
+    "short_margin_ratio_pct": 0.59,
+    "sbl_bal": 19796.0,
+    "sbl_sell": 0.0,
+    "sbl_chg_5d_pct": -3.44,
+    "sbl_chg_20d_pct": 22.06
+   },
+   "washout": {
+    "high_date": "2026-10-05",
+    "high_close": 92.9,
+    "close": 76.1,
+    "price_dd_pct": -18.08,
+    "margin_base_date": "2026-10-05",
+    "margin_base": 7065.0,
+    "margin_now": 10940.0,
+    "margin_chg_pct": 54.85,
+    "washout_ratio": -3.03,
+    "washout_label": "融資反增"
+   },
+   "ft_5d_pct_of_volume": -8.51
+  },
+  {
+   "code": "00894",
+   "group": "長期ETF",
+   "etf": true,
+   "name": "中信小資高價30",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": 561,
+     "trust": 0,
+     "dealer": 5,
+     "total": 566
+    },
+    "d5": {
+     "foreign": 728,
+     "trust": 0,
+     "dealer": -907,
+     "total": -179
+    },
+    "d10": {
+     "foreign": 567,
+     "trust": 0,
+     "dealer": -4973,
+     "total": -4406
+    },
+    "d20": {
+     "foreign": -362,
+     "trust": 0,
+     "dealer": -12240,
+     "total": -12603
+    },
+    "foreign_streak": 1,
+    "trust_streak": 0,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 574.0,
+    "margin_chg": 30.0,
+    "margin_chg_5d": 33.0,
+    "margin_chg_5d_pct": 6.1,
+    "margin_chg_20d_pct": 41.73,
+    "short_bal": 0.0,
+    "short_margin_ratio_pct": 0.0,
+    "sbl_bal": 3123.0,
+    "sbl_sell": 0.0,
+    "sbl_chg_5d_pct": -5.56,
+    "sbl_chg_20d_pct": 24.87
+   },
+   "washout": {
+    "high_date": "2026-10-05",
+    "high_close": 52.75,
+    "close": 42.0,
+    "price_dd_pct": -20.38,
+    "margin_base_date": "2026-10-05",
+    "margin_base": 343.0,
+    "margin_now": 574.0,
+    "margin_chg_pct": 67.35,
+    "washout_ratio": -3.3,
+    "washout_label": "融資反增"
+   },
+   "ft_5d_pct_of_volume": 9.06
+  },
+  {
+   "code": "2308",
+   "group": "定期定額",
+   "etf": false,
+   "name": "台達電",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": -1411,
+     "trust": 185,
+     "dealer": 174,
+     "total": -1052
+    },
+    "d5": {
+     "foreign": -8589,
+     "trust": 1737,
+     "dealer": 189,
+     "total": -6663
+    },
+    "d10": {
+     "foreign": -20790,
+     "trust": 2313,
+     "dealer": 2525,
+     "total": -15952
+    },
+    "d20": {
+     "foreign": -60551,
+     "trust": 1936,
+     "dealer": 1754,
+     "total": -56861
+    },
+    "foreign_streak": -12,
+    "trust_streak": 7,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 9546.0,
+    "margin_chg": 272.0,
+    "margin_chg_5d": 320.0,
+    "margin_chg_5d_pct": 3.47,
+    "margin_chg_20d_pct": -5.85,
+    "short_bal": 36.0,
+    "short_margin_ratio_pct": 0.38,
+    "sbl_bal": 13020.0,
+    "sbl_sell": 125.0,
+    "sbl_chg_5d_pct": -1.44,
+    "sbl_chg_20d_pct": 88.2
+   },
+   "washout": {
+    "high_date": "2026-10-06",
+    "high_close": 2050.0,
+    "close": 1240.0,
+    "price_dd_pct": -39.51,
+    "margin_base_date": "2026-10-06",
+    "margin_base": 9829.0,
+    "margin_now": 9546.0,
+    "margin_chg_pct": -2.88,
+    "washout_ratio": 0.07,
+    "washout_label": "去化不足（融資減幅 < 跌幅一半）"
+   },
+   "ft_5d_pct_of_volume": -8.14
+  },
+  {
+   "code": "3711",
+   "group": "定期定額",
+   "etf": false,
+   "name": "日月光投控",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": -1628,
+     "trust": 736,
+     "dealer": 330,
+     "total": -562
+    },
+    "d5": {
+     "foreign": -15388,
+     "trust": 8274,
+     "dealer": -406,
+     "total": -7521
+    },
+    "d10": {
+     "foreign": -61907,
+     "trust": 24904,
+     "dealer": 2569,
+     "total": -34434
+    },
+    "d20": {
+     "foreign": -114534,
+     "trust": 47630,
+     "dealer": 3593,
+     "total": -63311
+    },
+    "foreign_streak": -12,
+    "trust_streak": 18,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 11771.0,
+    "margin_chg": 208.0,
+    "margin_chg_5d": 357.0,
+    "margin_chg_5d_pct": 3.13,
+    "margin_chg_20d_pct": 35.49,
+    "short_bal": 196.0,
+    "short_margin_ratio_pct": 1.67,
+    "sbl_bal": 25087.0,
+    "sbl_sell": 573.0,
+    "sbl_chg_5d_pct": 8.59,
+    "sbl_chg_20d_pct": 162.47
+   },
+   "washout": {
+    "high_date": "2026-10-12",
+    "high_close": 762.0,
+    "close": 598.0,
+    "price_dd_pct": -21.52,
+    "margin_base_date": "2026-10-12",
+    "margin_base": 9166.0,
+    "margin_now": 11771.0,
+    "margin_chg_pct": 28.42,
+    "washout_ratio": -1.32,
+    "washout_label": "融資反增"
+   },
+   "ft_5d_pct_of_volume": -5.57
+  },
+  {
+   "code": "2301",
+   "group": "定期定額",
+   "etf": false,
+   "name": "光寶科",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": 2115,
+     "trust": -3164,
+     "dealer": 341,
+     "total": -708
+    },
+    "d5": {
+     "foreign": -1059,
+     "trust": -3326,
+     "dealer": 441,
+     "total": -3944
+    },
+    "d10": {
+     "foreign": -19133,
+     "trust": -3440,
+     "dealer": 3143,
+     "total": -19431
+    },
+    "d20": {
+     "foreign": -38824,
+     "trust": 681,
+     "dealer": 5638,
+     "total": -32505
+    },
+    "foreign_streak": 1,
+    "trust_streak": -2,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 10727.0,
+    "margin_chg": 81.0,
+    "margin_chg_5d": -1197.0,
+    "margin_chg_5d_pct": -10.04,
+    "margin_chg_20d_pct": -42.11,
+    "short_bal": 63.0,
+    "short_margin_ratio_pct": 0.59,
+    "sbl_bal": 7603.0,
+    "sbl_sell": 56.0,
+    "sbl_chg_5d_pct": 10.03,
+    "sbl_chg_20d_pct": 176.47
+   },
+   "washout": {
+    "high_date": "2026-08-28",
+    "high_close": 317.5,
+    "close": 231.5,
+    "price_dd_pct": -27.09,
+    "margin_base_date": "2026-08-28",
+    "margin_base": 20597.0,
+    "margin_now": 10727.0,
+    "margin_chg_pct": -47.92,
+    "washout_ratio": 1.77,
+    "washout_label": "去化充分（融資減幅 ≥ 跌幅）"
+   },
+   "ft_5d_pct_of_volume": -5.89
+  },
+  {
+   "code": "6515",
+   "group": "觀察（動能候選）",
+   "etf": false,
+   "name": "穎崴",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": -80,
+     "trust": 80,
+     "dealer": 1,
+     "total": 1
+    },
+    "d5": {
+     "foreign": -515,
+     "trust": 165,
+     "dealer": 10,
+     "total": -339
+    },
+    "d10": {
+     "foreign": 169,
+     "trust": 84,
+     "dealer": 17,
+     "total": 270
+    },
+    "d20": {
+     "foreign": 1096,
+     "trust": -767,
+     "dealer": -4,
+     "total": 325
+    },
+    "foreign_streak": -5,
+    "trust_streak": 2,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 967.0,
+    "margin_chg": -2.0,
+    "margin_chg_5d": 191.0,
+    "margin_chg_5d_pct": 24.61,
+    "margin_chg_20d_pct": -4.45,
+    "short_bal": 17.0,
+    "short_margin_ratio_pct": 1.76,
+    "sbl_bal": 546.0,
+    "sbl_sell": 20.0,
+    "sbl_chg_5d_pct": 22.42,
+    "sbl_chg_20d_pct": -19.94
+   },
+   "washout": {
+    "high_date": "2026-09-08",
+    "high_close": 7700.0,
+    "close": 4115.0,
+    "price_dd_pct": -46.56,
+    "margin_base_date": "2026-09-08",
+    "margin_base": 583.0,
+    "margin_now": 967.0,
+    "margin_chg_pct": 65.87,
+    "washout_ratio": -1.41,
+    "washout_label": "融資反增"
+   },
+   "ft_5d_pct_of_volume": -8.78
+  },
+  {
+   "code": "2303",
+   "group": "價差候選",
+   "etf": false,
+   "name": "聯電",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": 42066,
+     "trust": -22836,
+     "dealer": 1361,
+     "total": 20592
+    },
+    "d5": {
+     "foreign": -933,
+     "trust": -27373,
+     "dealer": -4588,
+     "total": -32894
+    },
+    "d10": {
+     "foreign": -54871,
+     "trust": -56071,
+     "dealer": 1640,
+     "total": -109302
+    },
+    "d20": {
+     "foreign": -238662,
+     "trust": -181489,
+     "dealer": -15682,
+     "total": -435834
+    },
+    "foreign_streak": 3,
+    "trust_streak": -2,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 123704.0,
+    "margin_chg": -2217.0,
+    "margin_chg_5d": -4156.0,
+    "margin_chg_5d_pct": -3.25,
+    "margin_chg_20d_pct": -27.0,
+    "short_bal": 1751.0,
+    "short_margin_ratio_pct": 1.42,
+    "sbl_bal": 146532.0,
+    "sbl_sell": 2346.0,
+    "sbl_chg_5d_pct": 13.82,
+    "sbl_chg_20d_pct": 30.65
+   },
+   "washout": null
+  },
+  {
+   "code": "2327",
+   "group": "價差候選",
+   "etf": false,
+   "name": "國巨*",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": 1214,
+     "trust": -2472,
+     "dealer": 138,
+     "total": -1121
+    },
+    "d5": {
+     "foreign": 4073,
+     "trust": -9986,
+     "dealer": 729,
+     "total": -5184
+    },
+    "d10": {
+     "foreign": -13523,
+     "trust": -14884,
+     "dealer": 1215,
+     "total": -27191
+    },
+    "d20": {
+     "foreign": -71962,
+     "trust": -13347,
+     "dealer": -2267,
+     "total": -87576
+    },
+    "foreign_streak": 4,
+    "trust_streak": -10,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 39829.0,
+    "margin_chg": 473.0,
+    "margin_chg_5d": 798.0,
+    "margin_chg_5d_pct": 2.04,
+    "margin_chg_20d_pct": -20.62,
+    "short_bal": 477.0,
+    "short_margin_ratio_pct": 1.2,
+    "sbl_bal": 62796.0,
+    "sbl_sell": 221.0,
+    "sbl_chg_5d_pct": -14.26,
+    "sbl_chg_20d_pct": 83.15
+   },
+   "washout": null
+  },
+  {
+   "code": "2330",
+   "group": "大盤權值",
+   "etf": false,
+   "name": "台積電",
+   "inst_date": "2026-11-13",
+   "inst": {
+    "days": 60,
+    "d1": {
+     "foreign": -2618,
+     "trust": 2946,
+     "dealer": 416,
+     "total": 744
+    },
+    "d5": {
+     "foreign": -17476,
+     "trust": 14914,
+     "dealer": -1476,
+     "total": -4038
+    },
+    "d10": {
+     "foreign": -98884,
+     "trust": 32066,
+     "dealer": 23032,
+     "total": -43786
+    },
+    "d20": {
+     "foreign": -206526,
+     "trust": 49235,
+     "dealer": 33688,
+     "total": -123603
+    },
+    "foreign_streak": -2,
+    "trust_streak": 31,
+    "streak_capped": false
+   },
+   "margin": {
+    "date": "2026-11-13",
+    "margin_bal": 32376.0,
+    "margin_chg": 120.0,
+    "margin_chg_5d": -2696.0,
+    "margin_chg_5d_pct": -7.69,
+    "margin_chg_20d_pct": -4.12,
+    "short_bal": 50.0,
+    "short_margin_ratio_pct": 0.15,
+    "sbl_bal": 23826.0,
+    "sbl_sell": 130.0,
+    "sbl_chg_5d_pct": 18.05,
+    "sbl_chg_20d_pct": 97.69
+   },
+   "washout": null
+  }
+ ],
+ "errors": [],
+ "sources": {
+  "T86": "https://www.twse.com.tw/rwd/zh/fund/T86?date=YYYYMMDD&selectType=ALLBUT0999&response=json",
+  "MI_MARGN": "https://www.twse.com.tw/rwd/zh/marginTrading/MI_MARGN?date=YYYYMMDD&selectType=ALL&response=json",
+  "TWT93U": "https://www.twse.com.tw/rwd/zh/marginTrading/TWT93U?date=YYYYMMDD&response=json",
+  "log": "data/market/chips_log.csv（每天每個來源的網址、抓取時間、原始回應 SHA-256）"
+ },
+ "notes": "單位：張。ETF 的法人數字多為造市／申贖避險，不當作看多看空訊號。融資去化比＝融資自股價高點以來的減幅 ÷ 股價跌幅，只是描述，依專案規則不得單獨據此稱洗盤完成，須另有量能、法人與產業佐證。"
+}
